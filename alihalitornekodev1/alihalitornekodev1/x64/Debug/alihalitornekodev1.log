@@ -1,0 +1,15 @@
+﻿  alihalitornekodev1.cpp
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(34,15): warning C4244: 'bağımsız değişken': 'time_t' - 'unsigned int' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(77,65): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(81,60): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(81,20): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(81,112): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(85,93): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(85,20): warning C4244: 'başlatılıyor': 'float' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(85,178): warning C4244: 'bağımsız değişken': 'double' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(250,79): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(252,79): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(259,57): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(261,57): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\technopc\source\repos\alihalitornekodev1\alihalitornekodev1\alihalitornekodev1.cpp(275,28): warning C4244: '+=': 'double' - 'float' dönüşümü; veri kaybı olabilir
+  alihalitornekodev1.vcxproj -> C:\Users\technopc\source\repos\alihalitornekodev1\x64\Debug\alihalitornekodev1.exe
